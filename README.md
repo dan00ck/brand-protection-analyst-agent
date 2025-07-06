@@ -44,7 +44,6 @@ pip install -r requirements.txt
 ```
 
 3. Generate an API Key for Gemini 2.5 Pro Model from here: https://aistudio.google.com/apikey  
-   - Learn more about Gemini Model: https://ai.google.dev/gemini-api/docs/rate-limits#free-tier
 
 4. Add your Gemini 2.5 Pro API key:
 
