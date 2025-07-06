@@ -1,0 +1,113 @@
+domain,is_threat,confidence,reason,risk_level,timestamp
+tuimt.com,True,0.85,"Combines the brand with a country code TLD abbreviation ('mt' for Malta), suggesting an official country-specific website.",high,2025-07-06T14:05:28.610453
+ag9tuii.yachts,True,0.8,"Uses a typo of the brand ('tuii') with a highly relevant TLD (.yachts), suggesting impersonation of luxury travel or yachting services.",high,2025-07-06T14:05:28.610453
+4tui.com,True,0.75,"Short and memorable domain that could be used for phishing campaigns (e.g., 'For TUI'). Its simplicity makes it a potential threat.",high,2025-07-06T14:05:28.610453
+tuibood.com,True,0.7,"Could be misinterpreted as 'TUI booked' or a related service, creating potential for customer confusion.",high,2025-07-06T14:05:28.610453
+shhutuii.com,True,0.65,"Contains a typo of the brand ('tuii'), which could be used in phishing or scam campaigns targeting customers.",high,2025-07-06T14:05:28.610453
+tuitravel-belgium.be,True,0.95,"Combines brand, industry keyword ('travel'), and country ('belgium'). Classic, high-risk impersonation of a regional branch.",high,2025-07-06T14:05:28.610453
+tuimail.run,True,0.9,"Impersonates an official email service, posing a high risk for phishing of employee or customer credentials.",high,2025-07-06T14:05:28.610453
+tuienda.com,True,0.85,"Likely a play on 'tienda' (shop in Spanish), could impersonate TUI's retail or booking operations in Spanish-speaking markets.",high,2025-07-06T14:05:28.610453
+tui-tech-pt.pt,True,0.9,"Impersonates a technical support department in Portugal, a high-risk vector for phishing and customer support scams.",high,2025-07-06T14:05:28.610453
+tuitha.com,True,0.85,"Combines the brand with a country abbreviation ('tha' for Thailand), suggesting an official site for a major tourist destination.",high,2025-07-06T14:05:28.610453
+nztuid.top,True,0.7,"Combines a country code ('nz' for New Zealand) with a brand typo ('tuid'), suggesting impersonation of a regional branch.",high,2025-07-06T14:05:28.610453
+tui-weihnachtsgewinnspiel.de,True,0.95,"Impersonates a promotional campaign ('Christmas raffle' in German), a classic setup for phishing and data theft targeting German customers.",high,2025-07-06T14:05:28.610453
+tuiexperiments.com,True,0.8,"Sounds like a plausible site for beta testing new TUI features, making it a credible vector for phishing attacks.",high,2025-07-06T14:05:28.610453
+tui-blue.pt,True,0.95,"Impersonates the official 'TUI Blue' hotel brand in a specific market (Portugal), creating a high risk of customer confusion and booking fraud.",high,2025-07-06T14:05:28.610453
+tui-merkzettel.de,True,0.95,Impersonates a common website feature ('Merkzettel' - wishlist/notepad) to target German customers for credential phishing.,high,2025-07-06T14:05:28.610453
+tui-select.com,True,0.95,"Directly impersonates a known TUI product tier ('Select'), suggesting an official service and posing a high risk of customer confusion.",high,2025-07-06T14:05:28.610453
+tuite.uk,True,0.85,Short and memorable domain in a key market (.uk). Could be misinterpreted as 'TUI Site' or an official short URL.,high,2025-07-06T14:05:28.610453
+tuipad.com,True,0.8,"Sounds like a plausible name for a TUI application or digital service portal, creating a high risk of customer confusion.",high,2025-07-06T14:05:28.610453
+tuiblue-oceanisbeach.gr,True,0.95,"Highly targeted impersonation of a specific TUI Blue hotel in Greece, posing a severe risk of booking fraud.",high,2025-07-06T14:05:28.610453
+tuiblue-riviera.es,True,0.95,"Impersonates the 'TUI Blue' brand in a specific region (Riviera) and market (Spain), high risk for booking scams.",high,2025-07-06T14:05:28.610453
+tuimpulse.es,True,0.8,"Combines the brand with a plausible marketing term ('Impulse') and a target market TLD (.es), suggesting an official campaign.",high,2025-07-06T14:05:28.610453
+tuimaadarealestate.com,True,0.8,"Combines the brand with 'realestate', suggesting an official involvement in property, which could be used for sophisticated financial scams.",high,2025-07-06T14:05:28.610453
+tuiintaiwan.online,True,0.85,"Directly claims to be the official TUI presence in Taiwan, creating a high risk of impersonation for the Asian market.",high,2025-07-06T14:05:28.610453
+tuiblue-schladming.at,True,0.95,"Highly targeted impersonation of a specific TUI Blue hotel in Austria, posing a severe risk of booking fraud.",high,2025-07-06T14:05:28.610453
+tuimbet2.com,True,0.7,"Associates the TUI brand with online betting, which can cause brand dilution and customer confusion.",high,2025-07-06T14:05:28.610453
+tuimbet-1l.com,True,0.7,"Associates the TUI brand with online betting, which can cause brand dilution and customer confusion.",high,2025-07-06T14:05:28.610453
+tuiblue-atlanticamarmari.gr,True,0.95,"Highly targeted impersonation of a specific TUI Blue hotel in Greece, posing a severe risk of booking fraud.",high,2025-07-06T14:05:28.610453
+tuiblue-residence-barut-fethiye.com.tr,True,0.95,"Highly targeted impersonation of a specific TUI Blue hotel in Turkey, posing a severe risk of booking fraud.",high,2025-07-06T14:05:28.610453
+tui-benelux.be,True,0.95,"Directly impersonates an official regional division of the company, posing a significant risk of customer confusion and phishing.",high,2025-07-06T14:05:28.610453
+tuiab.com,True,0.8,"Combines the brand name with 'ab', a common company suffix in Sweden (Aktiebolag), suggesting an official Swedish branch.",high,2025-07-06T14:05:28.610453
+tuimbet1.com,True,0.7,"Associates the TUI brand with online betting, which can cause brand dilution and customer confusion.",high,2025-07-06T14:05:28.610453
+tuio.ai,True,0.8,"Suggests a TUI technology or AI venture, which sounds modern and credible, posing a high risk for B2B or investment scams.",high,2025-07-06T14:05:28.610453
+tuisco-escrowservices.be,True,0.85,Uses a brand typo ('tuisco') with a financial term ('escrowservices') to create a credible-looking front for financial fraud in Belgium.,high,2025-07-06T14:05:28.610453
+tuivietnam.com,True,0.9,"Combines the brand name 'TUI' with a geographic location 'Vietnam', potentially impersonating an official country-specific TUI website.",high,2025-07-06T14:05:28.610453
+tuiblue-barut-fethiye.com.tr,True,1.0,"Directly impersonates a specific TUI hotel ('TUI BLUE') and a known resort location ('Barut Fethiye'), creating a highly credible phishing or fraudulent booking site.",high,2025-07-06T14:05:28.610453
+tuiblue-barut-fethiye.tr,True,1.0,"Directly impersonates a specific TUI hotel ('TUI BLUE') and a known resort location ('Barut Fethiye'), creating a highly credible phishing or fraudulent booking site.",high,2025-07-06T14:05:28.610453
+tuijoinville.com,True,0.8,"Combines the brand name 'TUI' with a city name 'Joinville', which could be mistaken for a local TUI agency or office.",medium,2025-07-06T14:05:28.610453
+blogtui.com,True,0.8,"Combines 'blog' with the brand name 'TUI', suggesting an official TUI travel blog. This could be used for phishing or spreading misinformation.",medium,2025-07-06T14:05:28.610453
+tuicestovnicentrum.cz,True,1.0,Combines 'TUI' with 'cestovni centrum' (Czech for 'travel center'). This is a direct impersonation of a TUI travel agency in the Czech Republic.,high,2025-07-06T14:05:28.610453
+tui.autos,True,0.9,Exact brand match on a gTLD related to TUI's car rental business (TUI Cars). High potential for customer confusion and impersonation.,high,2025-07-06T14:05:28.610453
+tuisco-escrowservices.eu,True,1.0,"Combines 'TUI' with 'escrowservices', suggesting a fraudulent financial service for travel payments. Poses a high risk for financial scams.",high,2025-07-06T14:05:28.610453
+tuigroup.online,True,1.0,"Directly impersonates the official company name 'TUI Group'. Extremely high risk for phishing, scams, and brand damage.",high,2025-07-06T14:05:28.610453
+tui-cruisses.de,True,1.0,Typosquatting on 'TUI Cruises' targeting the German market (.de). Highly likely to be used for phishing TUI's cruise customers.,high,2025-07-06T14:05:28.610453
+tuiblue-falesia.pt,True,1.0,"Impersonates the 'TUI BLUE' hotel brand at a specific resort location ('Falesia') in Portugal (.pt), creating a credible fake booking site.",high,2025-07-06T14:05:28.610453
+tuiblue-atlanticacaldera.gr,True,1.0,"Impersonates the 'TUI BLUE' hotel brand at a specific resort ('Atlantica Caldera') in Greece (.gr), posing a high risk for booking fraud.",high,2025-07-06T14:05:28.610453
+tuisys.au,True,0.8,"Combines 'TUI' with 'sys' (systems), suggesting an official IT or systems portal for the Australian market, which could be used for corporate phishing.",medium,2025-07-06T14:05:28.610453
+tui.bs,True,0.9,"Exact brand match on the ccTLD for the Bahamas (.bs), a TUI holiday destination. High risk for impersonation and phishing.",high,2025-07-06T14:05:28.610453
+nltuindirect.com,True,1.0,"Combines 'NL' (Netherlands), 'TUI', and 'Direct'. Appears to be an official site for direct bookings in the Netherlands, a key market.",high,2025-07-06T14:05:28.610453
+sochi-tui.ru,True,1.0,"Combines 'TUI' with a major tourist destination 'Sochi' and the Russian TLD (.ru), impersonating a regional TUI portal.",high,2025-07-06T14:05:28.610453
+tuimarketing.com,True,0.9,"Combines 'TUI' with 'Marketing', suggesting an official or partner site. High risk for phishing employees, partners, or customers with fake promotions.",high,2025-07-06T14:05:28.610453
+tuico.net,True,0.8,"Abbreviation of 'TUI Company' or 'TUI Corporation'. Plausible as an official corporate domain, posing a risk for impersonation.",medium,2025-07-06T14:05:28.610453
+tui-cesky.cz,True,1.0,"Combines 'TUI' with 'cesky' (Czech). A direct impersonation of a national branch ('TUI Czech'), targeting customers in the Czech Republic.",high,2025-07-06T14:05:28.610453
+tuidovolena.cz,True,1.0,Combines 'TUI' with 'dovolena' (Czech for 'holiday'). Directly impersonates a 'TUI Holiday' service in the Czech Republic.,high,2025-07-06T14:05:28.610453
+tuigroupinq.com,True,0.9,"Combines 'TUI Group' with 'inq' (inquiries), suggesting an official customer service or inquiry portal. High risk for phishing.",high,2025-07-06T14:05:28.610453
+tui-select.at,True,0.9,Uses the plausible sub-brand 'TUI Select' to target the Austrian market (.at). High risk of being a fraudulent site for premium travel packages.,high,2025-07-06T14:05:28.610453
+tui-select.co.uk,True,0.9,Uses the plausible sub-brand 'TUI Select' to target the UK market (.co.uk). High risk of being a fraudulent site for premium travel packages.,high,2025-07-06T14:05:28.610453
+tuimagiclife-plimmiri.gr,True,1.0,Directly impersonates the 'TUI MAGIC LIFE' brand at a specific resort location ('Plimmiri') in Greece (.gr). High risk for booking fraud.,high,2025-07-06T14:05:28.610453
+tuiblue-cap-cana.do,True,1.0,Impersonates the 'TUI BLUE' hotel brand at a specific resort ('Cap Cana') in the Dominican Republic (.do). Highly credible fake booking site.,high,2025-07-06T14:05:28.610453
+tui-fundacion.es,True,0.9,"Combines 'TUI' with 'fundacion' (Spanish for 'foundation'), impersonating an official charity arm in Spain (.es). High risk for charity scams.",high,2025-07-06T14:05:28.610453
+tuiblue-sensatori-atlantica-dreams.gr,True,1.0,"Combines two TUI brands ('TUI BLUE', 'Sensatori') with a specific resort name. Extremely credible and dangerous impersonation.",high,2025-07-06T14:05:28.610453
+renaulttui.es,True,0.8,"Suggests a partnership between TUI and Renault, which is plausible for car rentals. Could confuse customers in Spain (.es).",medium,2025-07-06T14:05:28.610453
+tui.cat,True,0.9,"Exact brand match on the .cat TLD, relevant to the Spanish market where TUI operates. High risk for regional phishing campaigns.",high,2025-07-06T14:05:28.610453
+tuilab.co.kr,True,0.8,"Combines 'TUI' with 'Lab', suggesting a technology or innovation department. Could be used for corporate phishing.",medium,2025-07-06T14:05:28.610453
+tuilistky.cz,True,1.0,Combines 'TUI' with 'listky' (Czech for 'tickets'). Directly impersonates a 'TUI Tickets' service in the Czech Republic.,high,2025-07-06T14:05:28.610453
+tuimail.org,True,0.9,Impersonates an official 'TUI Mail' service. High risk for phishing employees or customers to steal credentials or personal data.,high,2025-07-06T14:05:28.610453
+tuiblue-insulaalba.gr,True,1.0,Impersonates the 'TUI BLUE' hotel brand at a specific resort ('Insula Alba') in Greece (.gr). High risk for booking fraud.,high,2025-07-06T14:05:28.610453
+tui-select.de,True,0.9,Uses the plausible sub-brand 'TUI Select' to target the German home market (.de). High risk of being a fraudulent site for premium travel packages.,high,2025-07-06T14:05:28.610453
+tuiblue-zaharabeach.es,True,1.0,Impersonates the 'TUI BLUE' hotel brand at a specific resort ('Zahara Beach') in Spain (.es). Highly credible fake booking site.,high,2025-07-06T14:05:28.610453
+tuiblue-flamingobeach.es,True,1.0,"Impersonates the 'TUI BLUE' hotel brand combined with a plausible resort name in Spain, a major TUI market.",high,2025-07-06T14:05:28.610453
+tuiselect.co.uk,True,0.9,"Impersonates a premium product line ('TUI Select') targeting the UK market, creating a high risk of customer confusion.",high,2025-07-06T14:05:28.610453
+tuiloma.com,True,0.8,'Loma' is Finnish for 'holiday'. The domain 'TUI Holiday' poses a direct threat to customers in the Finnish market.,medium,2025-07-06T14:05:28.610453
+tuiceskarepublika.cz,True,1.0,"Translates to 'TUI Czech Republic', directly impersonating the official country-specific TUI website.",high,2025-07-06T14:05:28.610453
+tuiselect.de,True,0.9,"Impersonates a premium product line ('TUI Select') targeting the German market, creating a high risk of customer confusion.",high,2025-07-06T14:05:28.610453
+tuisad.hr,True,0.6,"Combines 'TUI' with the Croatian TLD. While 'sad' is ambiguous, its use in a key tourist market makes it a potential risk for local impersonation campaigns.",medium,2025-07-06T14:05:28.610453
+tuiblue-montafon.at,True,1.0,"Impersonates the 'TUI BLUE' hotel brand in a specific Austrian holiday region, suggesting an official local presence.",high,2025-07-06T14:05:28.610453
+tuiblue-atlanticapark.gr,True,1.0,"Impersonates the 'TUI BLUE' hotel brand, referencing a specific resort name in Greece, a key holiday destination.",high,2025-07-06T14:05:28.610453
+tui-b2bota-g7.nl,True,0.95,"Uses industry terms 'B2B' (Business-to-Business) and 'OTA' (Online Travel Agency), suggesting an official portal for TUI's travel partners, which is highly deceptive.",high,2025-07-06T14:05:28.610453
+tuiblue-laspitas.es,True,1.0,"Impersonates the 'TUI BLUE' hotel brand combined with a plausible resort name in Spain, a major TUI market.",high,2025-07-06T14:05:28.610453
+tuicestovn-icentrum.cz,True,1.0,"Translates to 'TUI Travel Center' in Czech, impersonating TUI's retail travel agencies in the Czech market.",high,2025-07-06T14:05:28.610453
+tui2026.com,True,0.7,"Combines the brand name with a future year, which could be used for phishing campaigns related to future holiday bookings.",medium,2025-07-06T14:05:28.610453
+tui-musement.pt,True,1.0,"Combines the 'TUI' brand with 'Musement' (a company acquired by TUI) and a Portuguese TLD, impersonating an official division of the company.",high,2025-07-06T14:05:28.610453
+tuiblue-atlantica-dreams.gr,True,1.0,"Impersonates the 'TUI BLUE' hotel brand, referencing a specific resort name in Greece, a key holiday destination.",high,2025-07-06T14:05:28.610453
+tuity.co,True,0.7,"A short, brandable domain that could be used to impersonate a TUI app, URL shortener, or a new service, causing customer confusion.",medium,2025-07-06T14:05:28.610453
+tuiblue-triathlon-hannover.de,True,0.95,"Impersonates a TUI-sponsored event ('Triathlon') in TUI's headquarter city (Hanover), creating a highly deceptive and targeted threat.",high,2025-07-06T14:05:28.610453
+tui-select.ch,True,0.9,"Impersonates a premium product line ('TUI Select') targeting the Swiss market, creating a high risk of customer confusion.",high,2025-07-06T14:05:28.610453
+tuicl.com,True,0.7,"Could be interpreted as 'TUI CL' for TUI Chile, impersonating a country-specific branch.",medium,2025-07-06T14:05:28.610453
+hellotui.be,True,0.75,Sounds like an official customer service or introductory portal ('Hello TUI') targeting the Belgian market.,medium,2025-07-06T14:05:28.610453
+tuichegou.com,True,0.6,Portuguese for 'TUI arrived'. Could be used to impersonate an official marketing campaign or service launch in a Portuguese-speaking market.,medium,2025-07-06T14:05:28.610453
+residence-artuik-appartamenti.com.es,True,0.85,"Potential typosquatting of 'TUI' as 'Artuik' combined with 'appartamenti' (apartments) and a Spanish TLD, which could target TUI customers looking for holiday apartments.",high,2025-07-06T14:05:28.610453
+tuidirwasgutes.de,True,0.9,A German phrase ('Tui dir was Gutes' / 'Do something good for yourself') that cleverly incorporates the brand name. High potential for confusion in phishing or marketing scams in TUI's home market.,high,2025-07-06T14:05:28.610453
+tui-reisecenter.de,True,1.0,Directly translates to 'TUI Travel Center' in German. This is a critical threat impersonating TUI's core retail business in its home market.,high,2025-07-06T14:05:28.610453
+tuispain.travel,True,1.0,"Combines 'TUI' with a major destination ('Spain') and the '.travel' TLD, making it look like an official country portal.",high,2025-07-06T14:05:28.610453
+tuiblue-barut-sorgun.com.tr,True,1.0,"Impersonates a specific 'TUI BLUE' partner hotel (Barut) in a Turkish location, making it appear highly legitimate to customers.",high,2025-07-06T14:05:28.610453
+tuiczesky.cz,True,1.0,"Translates to 'TUI Czech', impersonating the official brand presence in the Czech Republic.",high,2025-07-06T14:05:28.610453
+tuitakeoff.com,True,0.9,"Combines 'TUI' with 'takeoff', a clear aviation term, suggesting an official site related to TUI's airline operations (TUI fly).",high,2025-07-06T14:05:28.610453
+tuicestovnikancelar.cz,True,1.0,"Translates to 'TUI Travel Agency' in Czech, directly impersonating TUI's business in the Czech market.",high,2025-07-06T14:05:28.610453
+tuiblue-residence-barut-fethiye.tr,True,1.0,"Impersonates a specific 'TUI BLUE' partner hotel (Barut) in a Turkish location, making it appear highly legitimate to customers.",high,2025-07-06T14:05:28.610453
+tui-gesundheitsreisen.de,True,0.95,"Combines 'TUI' with 'Gesundheitsreisen' (German for 'health travel'), impersonating a niche travel product line in TUI's home market.",high,2025-07-06T14:05:28.610453
+tuikatalog.com,True,0.9,"Combines 'TUI' with 'Katalog' (Catalog), suggesting an official site for TUI's travel brochures, which could be used to harvest customer data.",high,2025-07-06T14:05:28.610453
+tuiblue-barut-sorgun.tr,True,1.0,"Impersonates a specific 'TUI BLUE' partner hotel (Barut) in a Turkish location, making it appear highly legitimate to customers.",high,2025-07-06T14:05:28.610453
+tuiblue-atlanticabelvedere.gr,True,0.95,Impersonates the specific TUI BLUE hotel brand combined with a known hotel name in a key tourist destination (Greece). High potential for customer confusion and phishing.,high,2025-07-06T14:05:28.610453
+tuiblue-tresvidas.es,True,0.95,Impersonates the TUI BLUE hotel brand combined with a plausible hotel name in a key tourist destination (Spain). High potential for customer confusion.,high,2025-07-06T14:05:28.610453
+tuisap.com,True,0.8,"Could impersonate a corporate IT service ('TUI SAP') or a mobile app ('TUI App'). The short, professional-sounding name poses a risk for corporate phishing.",medium,2025-07-06T14:05:28.610453
+tui-czechia.cz,True,0.95,"Combines the brand name with a country ('Czechia') and its official TLD (.cz), creating a highly convincing, fake regional website.",high,2025-07-06T14:05:28.610453
+tui-tours.pt,True,0.95,"Combines the brand name with a core business term ('tours') and a country TLD (.pt), appearing as an official portal for TUI tours in Portugal.",high,2025-07-06T14:05:28.610453
+gotui.com.ua,True,0.9,"Uses the 'Go' + Brand Name formula, which is a common marketing call to action. Combined with a country TLD (.com.ua), it appears to be an official booking portal for Ukraine.",high,2025-07-06T14:05:28.610453
+tuiselect.ch,True,0.9,"'TUI Select' is a highly plausible name for a premium or curated travel service. The Swiss TLD (.ch) adds to its credibility as a targeted, official offering.",high,2025-07-06T14:05:28.610453
+mwtuifx.asia,True,0.8,"Could be interpreted as 'TUI FX' or 'TUI Foreign Exchange', a plausible financial service for a global travel company. Poses a risk for phishing.",medium,2025-07-06T14:05:28.610453
+tuiblue-nevis.es,True,0.95,Impersonates the TUI BLUE hotel brand with a plausible hotel/resort name in a key market (Spain). High potential for customer confusion.,high,2025-07-06T14:05:28.610453
+tuiblue.gr,True,0.95,Directly impersonates the 'TUI BLUE' hotel brand in a major market (Greece). Extremely high risk for customer confusion and brand damage.,high,2025-07-06T14:05:28.610453
+tuicloudz.com,True,0.8,Impersonates a plausible corporate IT service ('TUI Cloud'). The 'z' is a common substitution. Could be used for corporate phishing attacks.,medium,2025-07-06T14:05:28.610453
+tuichartery.cz,True,0.9,"Combines the brand name with 'charter', a core TUI airline service. The Czech TLD (.cz) makes it appear as a legitimate regional charter service.",high,2025-07-06T14:05:28.610453
