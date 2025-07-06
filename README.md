@@ -25,6 +25,7 @@ This project was born from the need to **think semantically**, **detect beyond k
 - 📦 **Batch Processing** — Efficiently handles large domain datasets via Gemini API.
 - 📊 **Structured Output** — Saves results with confidence scores, risk levels, and explanations.
 - 🔐 **Flexible API Key Handling** — Use command-line, environment variables, `.env`, or secure prompt.
+- 🔍 **Example Analysis Results:**
 
 ![Analyst Results](assets/tui_evaluation_example.png)
 
