@@ -2,7 +2,7 @@
 
 # AI Brand Protection Analyst Agent
 
-A semantic brand protection agent powered by Google's Gemini AI. This tool helps detect fraudulent, malicious, or brand-abusing domains across the internet using advanced LLM-based semantic analysis and customizable analyst personas.
+A semantic brand protection agent powered by Google's recently open sourced Gemini 2.5 Pro AI. This tool helps detect fraudulent, malicious, or brand-abusing domains across the internet using advanced LLM-based semantic analysis and customizable analyst personas.
 
 ---
 
@@ -46,7 +46,7 @@ cd brand-protection-analyst-agent
 pip install -r requirements.txt
 ```
 
-3. Generate an API Key for Gemini 2.5 Pro Model from here: https://aistudio.google.com/apikey  
+3. Generate an (free of charge) API Key for (Open Source) Gemini 2.5 Pro Model from here: https://aistudio.google.com/apikey  
 
 4. Add your Gemini 2.5 Pro API key:
 
