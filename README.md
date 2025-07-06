@@ -26,6 +26,8 @@ This project was born from the need to **think semantically**, **detect beyond k
 - 📊 **Structured Output** — Saves results with confidence scores, risk levels, and explanations.
 - 🔐 **Flexible API Key Handling** — Use command-line, environment variables, `.env`, or secure prompt.
 
+![Analyst Results](assets/tui_evaluation_example.png)
+
 ---
 
 ## Installation
