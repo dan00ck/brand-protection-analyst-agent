@@ -1,0 +1,10 @@
+.env
+tests/
+__pycache__/
+*.csv
+.venv/
+venv/
+.idea/
+*.pyc
+*.key
+*_key.txt
