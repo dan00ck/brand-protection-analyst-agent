@@ -2,30 +2,37 @@
 
 # AI Brand Protection Analyst Agent
 
-A semantic brand protection agent powered by Google's recently open sourced Gemini 2.5 Pro AI. This tool helps detect fraudulent, malicious, or brand-abusing domains across the internet using advanced LLM-based semantic analysis and customizable analyst personas.
+A semantic brand protection agent powered by Google's Open Source Gemini 2.5 Pro AI Model. This tool helps detect fraudulent, malicious, or brand-abusing domains across the internet using advanced LLM-based semantic analysis and customizable analyst personas.
 
 ---
 
 ## Motivation
 
 After years working with threat intelligence and brand protection products, I've reverse-engineered some truly "creative" evaluation techniques.  
-The most memorable: a major platform that hard-cuts domain feeds, discarding any domain that doesn't start with the brand name.
+One of the most memorable: a major platform that hard-cuts domain feeds, **discarding any domain that doesn't start or end with the brand name**. 
 
-For short brand names like **"tui"** or **""otto"**, this approach loses **millions of potentially threatening domains weekly**.  
-Domains like `secure-tui-login[.]com` or `my-tui-booking[.]net` never reach analyst desks because they fail a basic syntax check.
+This shortcut is often necessary to reduce the flood of irrelevant fullword matches.
+For **short brand names** like **"tui"** or **"otto"**, it comes at a serious cost:
+Thousands of potentially threatening domains are silently lost every week.
 
-This project was born from the need to **think semantically**, **detect beyond keywords**, and empower analysts with **LLM-driven threat detection**.
+Domains like `secure-tui-login[.]com`, `my-tui-booking[.]net` or `nl-ottoshop[.]nl` never reach analyst desks because they fail a basic syntax check.
+
+This project was born from the need to: 
+- **think semantically, not just syntactically**, 
+- **detect threats beyond keyword / dictionary matches**, 
+- empower analysts with **LLM-based reasoning**,
+- recognize **internationalized and multilingual domain patterns** — domain registrations in localized variations are often missed by static dictionary-based systems.
 
 ---
 
 ## Features
 
-- 🔍 **Semantic Threat Detection** — Detects impersonation, phishing, and domain abuse based on brand context on a large scale.
-- 🧠 **Analyst Modes** — Choose between junior, senior, and expert AI analyst personas.
-- 📦 **Batch Processing** — Efficiently handles large domain datasets via Gemini API.
-- 📊 **Structured Output** — Saves results with confidence scores, risk levels, and explanations.
-- 🔐 **Flexible API Key Handling** — Use command-line, environment variables, `.env`, or secure prompt.
-- 🔍 **Example Analysis Results:**
+- **Semantic Threat Detection** — Detects impersonation, phishing, and domain abuse based on brand context on a large scale.
+- **Analyst Modes** — Choose between junior, senior, and expert AI analyst personas.
+- **Batch Processing** — Efficiently handles large domain datasets via Gemini API.
+- **Structured Output** — Saves results with confidence scores, risk levels, and explanations.
+- **Flexible API Key Handling** — Use command-line, environment variables, `.env`, or secure prompt.
+- **Example Analysis Results:**
 
 ![Analyst Results](assets/tui_evaluation_example.png)
 
@@ -150,7 +157,7 @@ Each `.csv` contains:
 - Domain
 - Confidence score
 - Relevance
-- Risk level (`low`, `medium`, `high`)
+- Risk level
 - Explanation
 
 ---
@@ -175,13 +182,15 @@ Each `.csv` contains:
 ## TODO
 
 - IDN support
+- Multimodal processing
+- Additional evaluation features
 
 ---
 
 ## Author
 
 **Patrick Steinhoff**  
-🔗 [LinkedIn](https://www.linkedin.com/in/patrick-steinhoff-168892222/)
+[LinkedIn](https://www.linkedin.com/in/patrick-steinhoff-168892222/)
 
 ---
 
